@@ -66,6 +66,9 @@ Distributed under the GNU General Public License v3.0. See `LICENSE.txt` for mor
 
 * Github: [@johnDorman98](https://github.com/johnDorman98)
 
+**Motheo Motau**
+
+* Github: [@Mtash09](https://github.com/Mtash09)
 ---
 
 ## Show your support
