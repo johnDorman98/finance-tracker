@@ -17,6 +17,26 @@
 
 ---
 
+
+---
+
+<a name="to-do-features"></a>
+## Upcoming Features 
+
+* Main menu
+ * Register section
+  * New Username & Email (Check validity/duplication of username and email)
+  * Password
+  * Confirmation password
+  * Confirmation email (via Email confirmation - Future Feature)
+  
+ * Login Section
+  * Username / Email (Check validity/duplication of username and email)
+  * Password
+  * Robot verification (Future feature)
+
+---
+
 <a name="installation"></a>
 ## Installation 
 * In order for this program to work, you will need two main things. The first is Python installed on your computer, and the second is an IDE to run the program.
